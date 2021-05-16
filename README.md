@@ -4,7 +4,7 @@
 
 This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://training.mirantis.com/dca-certification-exam/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
 
-Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
+
 
 ## Table of Contents
 
